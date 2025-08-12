@@ -1,4 +1,4 @@
-# Server Stats
+# Server Stats - https://roadmap.sh/projects/server-stats
 
 A Bash script that displays system statistics like uptime, CPU usage, memory, disk usage, and failed login attempts on macOS.
 
